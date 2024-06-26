@@ -1,0 +1,13 @@
+.home{
+
+}
+/* קובץ styles.css */
+
+body {
+    background-image: url('../public/image.jpg'); /* כדי להתאים את הנתיב למקום בו העלת את קובץ התמונה */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* נעילת רקע */
+    background-position: center;
+}
+

@@ -22,6 +22,7 @@ function App() {
         <Route path="/updateQueue/:queueId" element={<UpdateQueue />} />
       </Routes>
       {/* <Login />
+      
       <Logout /> */}
     </>
   );

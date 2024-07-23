@@ -12,19 +12,14 @@
 - **Axios**: לביצוע בקשות HTTP לשרת.
 
 ## התקנה והרצה
-
-1. קלון את הרפוזיטורי מ-GitHub:
+1. קלון את הרפוזיטורי מ-GitHub
 
 ```bash
 git clone https://github.com/ShiraKedem/DogBarberShopServer.git
 git clone https://github.com/ShiraKedem/DogBarberShopClient.git
+  ```
 
 
-
-
-
-
-![צילום מסך 2024-07-23 151234](https://github.com/user-attachments/assets/23b174cc-a515-4be2-8256-08335da982c8) 
-![צילום מסך 2024-07-23 151303](https://github.com/user-attachments/assets/32e4a0bf-e85a-4247-a6cd-49c965b5d544)
-
-![צילום מסך 2024-07-23 151252](https://github.com/user-attachments/assets/b50829f1-b2e4-4efb-b5a2-9d1f52dace8f)
+![צילום מסך 2024-07-23 151234](https://github.com/user-attachments/assets/906037e3-db26-4ae8-aa83-66ef97e6e360)
+![צילום מסך 2024-07-23 151252](https://github.com/user-attachments/assets/73719f33-4ff4-4e9a-b672-e7783a97277f)
+![צילום מסך 2024-07-23 151303](https://github.com/user-attachments/assets/a1b70130-d2ff-4d7d-b225-2608e43a093d)
